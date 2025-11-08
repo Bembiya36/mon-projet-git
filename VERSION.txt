@@ -1,1 +1,3 @@
-Version 1.0.0
+git add VERSION.txt
+git commit -m "Merge: résoudre conflit VERSION"
+git push origin feat/version-v1
